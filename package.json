@@ -1,0 +1,15 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "qurusan",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^7.2.5",
+    "parcel-bundler": "^1.5.1",
+    "parcel-plugin-pug": "^0.2.4"
+  },
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
